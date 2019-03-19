@@ -1,3 +1,4 @@
+```
 ets Jun  8 2016 00:22:57
 
 rst:0x1 (POWERON_RESET),boot:0x1b (SPI_FAST_FLASH_BOOT)
@@ -21,3 +22,4 @@ Initialize LAN..................................[ COMPLETE ]
 Receiving IP address............................[ ERROR ]
 IP address: 0.0.0.0
 Press any key to start again!
+```

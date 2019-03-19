@@ -1,3 +1,4 @@
+```
 ets Jun  8 2016 00:22:57
 
 rst:0x1 (POWERON_RESET),boot:0x1b (SPI_FAST_FLASH_BOOT)
@@ -11,3 +12,4 @@ load:0x40078000,len:9504
 load:0x40080400,len:5900
 entry 0x40080698
 ETH Started
+```

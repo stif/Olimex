@@ -1,3 +1,4 @@
+```
 rs���� (POWERON_RESET),boot:0x1b (SPI_FAST_FLASH_BOOT)
 configsip: 0, SPIWP:0xee
 clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
@@ -68,3 +69,4 @@ Task watchdog got triggered. The following tasks did not reset the watchdog in t
 Tasks currently running:
 CPU 0: main
 CPU 1: IDLE
+```
