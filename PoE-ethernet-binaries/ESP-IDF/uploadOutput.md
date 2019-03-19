@@ -1,3 +1,4 @@
+```
 [stif@stif-laptop ESP-IDF]$ python /home/stif/.esp-idf/esp-idf/components/esptool_py/esptool/esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 115200 --before default_reset --after hard_reset write_flash -z --flash_mode dio --flash_freq 40m --flash_size detect 0x1000 /home/stif/workspace/arduino/Olimex/Olimex-Github/ESP-IDF/ESP32_PoE_Ethernet/build/bootloader/bootloader.bin 0x10000 /home/stif/workspace/arduino/Olimex/PoE-ethernet-binaries/ESP-IDF/ESP32-PoE.bin 0x8000 /home/stif/workspace/arduino/Olimex/PoE-ethernet-binaries/ESP-IDF/partitions_singleapp.bin
 esptool.py v2.6
 Serial port /dev/ttyUSB0
@@ -22,3 +23,4 @@ Hash of data verified.
 
 Leaving...
 Hard resetting via RTS pin...
+```

@@ -1,3 +1,4 @@
+```
 [stif@stif-laptop Arduino]$ python /home/stif/.arduino15/packages/esp32/tools/esptool_py/2.6.1/esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 115200 --before default_reset --after hard_reset write_flash -z --flash_mode dio --flash_freq 80m --flash_size detect 0xe000 /home/stif/.arduino15/packages/esp32/hardware/esp32/1.0.2-rc1/tools/partitions/boot_app0.bin 0x1000 /home/stif/.arduino15/packages/esp32/hardware/esp32/1.0.2-rc1/tools/sdk/bin/bootloader_dio_80m.bin 0x10000 /home/stif/workspace/arduino/Olimex/PoE-ethernet-binaries/Arduino/ESP32_PoE_Ethernet_Arduino.ino.bin 0x8000 /home/stif/workspace/arduino/Olimex/PoE-ethernet-binaries/Arduino/ESP32_PoE_Ethernet_Arduino.ino.partitions.bin 
 esptool.py v2.6
 Serial port /dev/ttyUSB0
@@ -25,3 +26,4 @@ Hash of data verified.
 
 Leaving...
 Hard resetting via RTS pin...
+```

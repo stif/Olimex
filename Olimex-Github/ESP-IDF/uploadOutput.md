@@ -1,3 +1,4 @@
+```
 [stif@stif-laptop ESP32_PoE_Ethernet]$ make flash
 Flashing binaries to serial port /dev/ttyUSB0 (app at offset 0x10000 )...
 esptool.py v2.6
@@ -23,4 +24,4 @@ Hash of data verified.
 
 Leaving...
 Hard resetting via RTS pin...
-[stif@stif-laptop ESP32_PoE_Ethernet]$ 
+```

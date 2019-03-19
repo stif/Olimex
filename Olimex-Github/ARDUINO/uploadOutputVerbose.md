@@ -1,3 +1,4 @@
+```
 Der Sketch verwendet 688899 Bytes (52%) des Programmspeicherplatzes. Das Maximum sind 1310720 Bytes.
 Globale Variablen verwenden 38244 Bytes (11%) des dynamischen Speichers, 289436 Bytes für lokale Variablen verbleiben. Das Maximum sind 327680 Bytes.
 python /home/stif/.arduino15/packages/esp32/tools/esptool_py/2.6.1/esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 115200 --before default_reset --after hard_reset write_flash -z --flash_mode dio --flash_freq 80m --flash_size detect 0xe000 /home/stif/.arduino15/packages/esp32/hardware/esp32/1.0.2-rc1/tools/partitions/boot_app0.bin 0x1000 /home/stif/.arduino15/packages/esp32/hardware/esp32/1.0.2-rc1/tools/sdk/bin/bootloader_dio_80m.bin 0x10000 /tmp/arduino_build_761932/ESP32_PoE_Ethernet_Arduino.ino.bin 0x8000 /tmp/arduino_build_761932/ESP32_PoE_Ethernet_Arduino.ino.partitions.bin 
@@ -59,3 +60,4 @@ Hash of data verified.
 
 Leaving...
 Hard resetting via RTS pin...
+```

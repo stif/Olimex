@@ -1,3 +1,4 @@
+```
 Der Sketch verwendet 688899 Bytes (52%) des Programmspeicherplatzes. Das Maximum sind 1310720 Bytes.
 Globale Variablen verwenden 38244 Bytes (11%) des dynamischen Speichers, 289436 Bytes für lokale Variablen verbleiben. Das Maximum sind 327680 Bytes.
 esptool.py v2.6
@@ -58,3 +59,4 @@ Hash of data verified.
 
 Leaving...
 Hard resetting via RTS pin...
+```

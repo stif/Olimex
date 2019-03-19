@@ -1,3 +1,4 @@
+```
 > Executing task: platformio run --target upload <
 
 Processing pio-esp32-poe-arduino (framework: arduino; platform: https://github.com/platformio/platform-espressif32.git#feature/stage; board: esp32-poe)
@@ -53,3 +54,4 @@ Hard resetting via RTS pin...
 ========================================================================== [SUCCESS] Took 41.32 seconds ==========================================================================
 
 Das Terminal wird von Aufgaben wiederverwendet, drücken Sie zum Schließen eine beliebige Taste.
+```

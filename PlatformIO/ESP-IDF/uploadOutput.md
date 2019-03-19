@@ -1,3 +1,4 @@
+```
 > Executing task: platformio run --target upload <
 
 Processing pio-esp32-poe-espidf (framework: espidf; platform: espressif32; board: esp32-poe)
@@ -49,3 +50,4 @@ Hard resetting via RTS pin...
 ====================================================================== [SUCCESS] Took 22.98 seconds ======================================================================
 
 Das Terminal wird von Aufgaben wiederverwendet, drücken Sie zum Schließen eine beliebige Taste.
+```
